@@ -15,8 +15,6 @@ Criei este documento para praticar algumas habilidades básicas no Microsoft Wor
 2. Em seguida, faça uma lista com marcadores com pelo menos três itens.
 
 ## Inserção de Imagem
-
-![Legenda da Imagem]()
 - Adicione uma imagem ao seu documento. Certifique-se de alinhá-la corretamente e adicione uma legenda descritiva.
 
 ## Criação de Tabelas
