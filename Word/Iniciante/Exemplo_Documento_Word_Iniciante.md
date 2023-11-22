@@ -16,7 +16,7 @@ Criei este documento para praticar algumas habilidades básicas no Microsoft Wor
 
 ## Inserção de Imagem
 
-![Legenda da Imagem](url_da_imagem)
+![Legenda da Imagem]()
 - Adicione uma imagem ao seu documento. Certifique-se de alinhá-la corretamente e adicione uma legenda descritiva.
 
 ## Criação de Tabelas
